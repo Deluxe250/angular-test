@@ -1,0 +1,3 @@
+[submodule "projects/ui-kit"]
+	path = projects/ui-kit
+	url = https://github.com/Deluxe250/angular-ui-kit
