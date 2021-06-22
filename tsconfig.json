@@ -18,6 +18,8 @@
     "paths": {
       "ui-kit": [
         "dist/ui-kit/ui-kit",
+        "dist/ui-kit",
+        "dist/ui-kit/ui-kit",
         "dist/ui-kit"
       ]
     }
